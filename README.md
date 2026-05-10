@@ -1,2 +1,7 @@
-# SWE210-Software-Security-Project
-A secure web application developed for the SWE210 Software Security course at Istinye University. Features include secure authentication with password hashing, Role-Based Access Control (RBAC), and data encryption using Fernet.
+Project Name: SWE210 Secure Web App
+Student: Egemen Efe Ergün
+Features: > - Secure Authentication (Werkzeug Hashing)
+
+Role-Based Access Control (Admin/User)
+
+Data Encryption (Fernet AES)
